@@ -1,5 +1,5 @@
 ## KryptVib: Secure Crypto Exchange Web Application
-![KryptVib Logo](.E:\img)
+![KryptVib Logo](./logo.png)
 
 ## Introduction
 Welcome to KryptVib, a state-of-the-art crypto exchange platform designed with a focus on robust security and seamless trading experience. KryptVib features an advanced 7-layer integrated firewall, ensuring top-tier protection against potential threats while allowing users to trade cryptocurrencies with peace of mind.
