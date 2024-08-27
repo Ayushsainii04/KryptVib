@@ -1,17 +1,9 @@
-# Krypt - Web 3.0 Blockchain Application
-![Krypt](https://i.ibb.co/DVF4tNW/image.png)
-
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
-
 ## Introduction
-This is a code repository for the corresponding video tutorial.
+Welcome to KryptVib, a state-of-the-art crypto exchange platform designed with a focus on robust security and seamless trading experience. KryptVib features an advanced 7-layer integrated firewall, ensuring top-tier protection against potential threats while allowing users to trade cryptocurrencies with peace of mind.
 
-Using Web 3.0 methodologies, Solidity and Metamask you'll learn how to build a your first real Web 3.0 Application - from start to finish.
+Key Features:
 
-Project created in collaboration with Enyel Sequeira: 
-Portfolio - https://www.enyelsequeira.com
-E-mail - enyelsequeira1994@gmail.com
-Want me to cover the project you've created? Send me an e-mail 👌
-
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
+Multi-Layered Security: The 7-layer firewall provides unparalleled security, safeguarding sensitive data and transactions.
+User-Friendly Interface: Intuitive design for both beginners and experienced traders.
+Efficient Trading: Real-time updates and smooth transaction processing.
+Dive in and explore the code behind this highly secure crypto trading platform!
